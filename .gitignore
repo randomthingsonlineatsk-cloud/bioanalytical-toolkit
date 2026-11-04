@@ -5,3 +5,4 @@ dist/
 .tanstack/
 *.log
 .env*
+*.tsbuildinfo
