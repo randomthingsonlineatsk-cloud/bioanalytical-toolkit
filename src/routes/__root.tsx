@@ -14,6 +14,7 @@ export const Route = createRootRoute({
           'Dilution, molarity, serial dilution, LOD/LOQ, and standard-curve regression calculators for the bench.',
       },
     ],
+    links: [{ rel: 'icon', type: 'image/svg+xml', href: '/favicon.svg' }],
   }),
   shellComponent: RootDocument,
 })
