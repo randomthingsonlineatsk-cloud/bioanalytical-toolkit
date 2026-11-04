@@ -2,6 +2,8 @@
 
 Eight bench calculators for bioanalytical work.
 
+**Live demo:** https://bioanalytical-toolkit.randomthingsonlineatsk.workers.dev
+
 
 > This is a fictional, educational demonstration. Do not use it for real patient data, clinical decisions or regulatory submissions.
 
